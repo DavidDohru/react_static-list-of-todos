@@ -1,2 +1,0 @@
-.Todo{width:300px;padding:20px;border:1.5px solid #000;border-radius:10px;margin:20px;background-color:#d1d1d1;transition:.5s}.Todo__title{font-size:26px}.Todo__compiled{font-weight:800;color:green}.Todo__in-process{font-weight:800;color:orange}.Todo:hover{transition:.5s;cursor:pointer;background-color:#bebebe;-webkit-transform:scale(1.03);transform:scale(1.03)}.TodoList{display:flex;flex-wrap:wrap}
-/*# sourceMappingURL=main.6a80fbd9.chunk.css.map */
